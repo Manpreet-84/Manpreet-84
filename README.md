@@ -8,7 +8,7 @@ First-Class Cyber Security graduate and MSc Computer Science student, seeking an
 
 ## Practical support evidence
 
-- **Fedora hardware diagnosis:** investigated a wireless controller receiver that did not create an input device; checked kernel configuration and module availability and identified the matching packaged driver. [Diagnostic issue #2228](https://github.com/linux-surface/linux-surface/issues/2228). This is an investigation, not a claim of a merged upstream contribution.
+- **Fedora hardware diagnosis:** investigated a wireless controller receiver that did not create an input device; checked kernel configuration and module availability and identified the matching packaged driver. [Diagnostic issue #2228](https://github.com/linux-surface/linux-surface/issues/2228).
 - **Ubuntu home lab:** configured and investigated systemd services, SSH through Tailscale, network connectivity and service availability after reboots.
 - **Application troubleshooting:** built client/server projects and worked on APIs, access control and integration issues.
 
@@ -25,6 +25,6 @@ First-Class Cyber Security graduate and MSc Computer Science student, seeking an
 
 Windows 11 · Ubuntu / Fedora · TCP/IP fundamentals · Wi-Fi / Ethernet troubleshooting · SSH · Tailscale · Git · Python · API and application debugging
 
-Seeking **first-line IT support, service desk and junior technical support** opportunities in London. Availability is subject to my study timetable. Technical projects and home-lab work are personal experience, separate from paid IT employment.
+Seeking **first-line IT support, service desk and junior technical support** opportunities in London. Availability is subject to my study timetable.
 
-I also enjoy developing software and security tools. For hiring, the portfolio separates working software, browser simulations and prototypes rather than presenting every demo as a production deployment.
+I also enjoy developing software and security tools. The portfolio includes working software, clearly labelled browser simulations and prototypes.
